@@ -1,0 +1,27 @@
+h1{
+    color: rgb(42, 225, 36);
+    text-align: center;
+    margin: auto;
+    cursor: pointer;   
+}
+.pragraph{
+    color: black;
+    text-align: center;
+    margin: auto;
+    border: 2px solid black;
+} 
+.navbar{
+    background-color: black;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    
+    text-decoration: none;
+    color: rgba(242, 57, 16, 0.779);
+}
+.container-fluid{
+ display: inline;
+}
